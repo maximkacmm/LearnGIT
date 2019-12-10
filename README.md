@@ -1,3 +1,3 @@
 # LearnGIT
 
-### [Demo](https://github.com/maximkacmm/LearnGIT/index.html)
+### [Demo link](https://maximkacmm.github.io/LearnGIT/index.html)
