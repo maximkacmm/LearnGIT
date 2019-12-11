@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="928031ad-c7c8-4417-a026-19ba22f5b4b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearnGIT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -118,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576001448592</updated>
       <workItem from="1576001455333" duration="1536000" />
-      <workItem from="1576083216188" duration="422000" />
+      <workItem from="1576083216188" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1576002675576</created>
@@ -134,11 +130,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576002988669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11111111">
+      <created>1576083662014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576083662014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1958000" />
+    <option name="totallyTimeSpent" value="2796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -168,7 +171,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="demo link" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo link" />
+    <MESSAGE value="11111111" />
+    <option name="LAST_COMMIT_MESSAGE" value="11111111" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/programming/projects/UBEReats/README.md">
