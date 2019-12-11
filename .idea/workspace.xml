@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="928031ad-c7c8-4417-a026-19ba22f5b4b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="928031ad-c7c8-4417-a026-19ba22f5b4b5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
+              <first_editor>
                 <caret line="3" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
@@ -114,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576001448592</updated>
       <workItem from="1576001455333" duration="1536000" />
-      <workItem from="1576083216188" duration="1260000" />
+      <workItem from="1576083216188" duration="1507000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1576002675576</created>
@@ -137,11 +135,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576083662014</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11111111">
+      <created>1576084498565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576084498565</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2796000" />
+    <option name="totallyTimeSpent" value="3043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -158,7 +163,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.89542484" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -195,7 +200,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
+          <first_editor>
             <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
